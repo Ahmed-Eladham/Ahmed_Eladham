@@ -74,8 +74,7 @@ My graduation project focused on building an intelligent line-following and vehi
 
 ## 🚀 Featured Projects
 
-### 📡 BPSK Software Defined Radio
-### ⚖️ ESP32-S3 Digital Scale
+### To be Added
 
 ---
 
