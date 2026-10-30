@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E86AB&center=true&v=true&width=800&lines=Ahmed+El+Adham;Senior+Communication+%26+Electronics+Engineering+Student;Embedded+Systems+%7C+Competitive+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E86AB&center=true&v=true&width=800&lines=Ahmed+Eladham;Senior+Communication+%26+Electronics+Engineering+Student;Embedded+Systems+%7C+Competitive+Programming" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🔗 Connect with Me</h2>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://codeforces.com/profile/Ahmed_Eladham">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8B23?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-%231F8B23?style=for-the-badge&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
