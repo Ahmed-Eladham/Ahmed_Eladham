@@ -75,10 +75,7 @@ My graduation project focused on building an intelligent line-following and vehi
 ## 🚀 Featured Projects
 
 ### 📡 BPSK Software Defined Radio
-A software-defined radio implementation for Binary Phase-Shift Keying modulation, enabling digital signal processing and wireless communication experimentation.
-
 ### ⚖️ ESP32-S3 Digital Scale
-A precision digital weighing scale built around the ESP32-S3 microcontroller, featuring load cell interfacing, calibration, and embedded firmware.
 
 ---
 
